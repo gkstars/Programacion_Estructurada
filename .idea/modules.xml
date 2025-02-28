@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-EstructurasdeControl/01-EstructurasdeControl.iml" filepath="$PROJECT_DIR$/01-EstructurasdeControl/01-EstructurasdeControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Ciclos/02_CiclosDoWhile/02_CiclosDoWhile.iml" filepath="$PROJECT_DIR$/02-Ciclos/02_CiclosDoWhile/02_CiclosDoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Ciclos/02_CiclosFor/02_CiclosFor.iml" filepath="$PROJECT_DIR$/02-Ciclos/02_CiclosFor/02_CiclosFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Ciclos/02_CiclosLibres/02_CiclosLibres.iml" filepath="$PROJECT_DIR$/02-Ciclos/02_CiclosLibres/02_CiclosLibres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Ciclos/02_CiclosWhile/02_CiclosWhile.iml" filepath="$PROJECT_DIR$/02-Ciclos/02_CiclosWhile/02_CiclosWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Secuenciales/03-Secuenciales.iml" filepath="$PROJECT_DIR$/03-Secuenciales/03-Secuenciales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Repositorio_Gallardo.iml" filepath="$PROJECT_DIR$/.idea/Repositorio_Gallardo.iml" />
+    </modules>
+  </component>
+</project>
